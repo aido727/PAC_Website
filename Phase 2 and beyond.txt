@@ -1,0 +1,17 @@
+Phase 2:
+- online forms (such as applications)
+- maintenance page
+- archive page, list of headers only, more records visible than 5, has search dropdowns, keyword search? (has it's own individual page/nav)
+- events (main list is a calender, each indiv item has it's own nav with type defined)
+- photos (ink splat shape)
+- videos (figting dust cloud?)
+- jquery image viewer popup (add to about and all posts)
+- comments
+- scroll speed control and pause for top banner
+- custom post icons
+- paypal donations link?
+- dynamic facebook metadata *(if original metadata even works)
+- maps for locations of events
+- pinned post
+- committee photos/links
+- documents section
